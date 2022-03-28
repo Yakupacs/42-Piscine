@@ -1,5 +1,5 @@
 # *42 PISCINE*
-*42 piscine C Cursus and Shell Cursus*
+*My 42 Piscine Cursus Exercises*
  <br />[Shell00](https://github.com/Yakupacs/42piscine/tree/master/Shell00) <br /> [Shell01](https://github.com/Yakupacs/42piscine/tree/master/Shell01) 
  <br />[C00](https://github.com/Yakupacs/42piscine/tree/master/C00) <br />[C01](https://github.com/Yakupacs/42piscine/tree/master/C01) <br />[C02](https://github.com/Yakupacs/42piscine/tree/master/C02)
   <br />[C03](https://github.com/Yakupacs/42piscine/tree/master/C03) <br />[C04](https://github.com/Yakupacs/42piscine/tree/master/C04) <br />[C05](https://github.com/Yakupacs/42piscine/tree/master/C05)
